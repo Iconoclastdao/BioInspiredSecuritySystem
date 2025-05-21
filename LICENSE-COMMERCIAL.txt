@@ -1,0 +1,11 @@
+Commercial License for Bio-Inspired Security System
+
+The Bio-Inspired Security System software is available under a dual licensing model. 
+Individuals may use the software under the MIT License (see LICENSE-MIT.txt). 
+For commercial use, a separate commercial license is required.
+
+To obtain a commercial license, please contact:
+James Chapman
+Email: iconoclastdao@gmail.com
+
+Commercial use without a valid license is strictly prohibited.
